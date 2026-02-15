@@ -6,9 +6,9 @@ This repository contains the tasks completed during my Web Development internshi
 
 | Project | Live Demo | Source Code |
 | :--- | :--- | :--- |
-| **01. Landing Page** | [Link TBD]() | [Code](./Project-1-Landing-Page/) |
-| **02. Personal Portfolio** | [Link TBD]() | [Code](./Project-2-Personal-Portfolio/) |
-| **03. Temperature Converter** | [Link TBD]() | [Code](./Project-3-Temperature-Converter/) |
+| **01. Landing Page** | [Link TBD](https://vishnu-landingpage.netlify.app/) | [Code](./Project-1-Landing-Page/) |
+| **02. Personal Portfolio** | [Link TBD](https://vishnuragiri.netlify.app/) | [Code](./Project-2-Personal-Portfolio/) |
+| **03. Temperature Converter** | [Link TBD](https://vishnu-tempconvert.netlify.app/) | [Code](./Project-3-Temperature-Converter/) |
 
 ---
 
@@ -26,10 +26,11 @@ A simple utility tool to convert temperatures between Celsius, Fahrenheit, and K
 ## 👨‍💻 Author
 
 **Vishnu Ragiri**
-- **Internship:** Oasis Infobyte (Feb 2026 Batch)
+- **Internship:** Oasis Infobyte 
 - **Email:** vishnureddy2005r@gmail.com
 - **GitHub:** [vishnurdy1](https://github.com/vishnurdy1)
 - **LinkedIn:** [Vishnu Ragiri](https://www.linkedin.com/in/vishnu-ragiri-a12969289/)
 
 ---
 *© 2026 Vishnu Ragiri*
+
