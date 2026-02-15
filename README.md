@@ -6,9 +6,9 @@ This repository contains the tasks completed during my Web Development internshi
 
 | Project | Live Demo | Source Code |
 | :--- | :--- | :--- |
-| **01. Landing Page** | [Link TBD](https://vishnu-landingpage.netlify.app/) | [Code](./Project-1-Landing-Page/) |
-| **02. Personal Portfolio** | [Link TBD](https://vishnuragiri.netlify.app/) | [Code](./Project-2-Personal-Portfolio/) |
-| **03. Temperature Converter** | [Link TBD](https://vishnu-tempconvert.netlify.app/) | [Code](./Project-3-Temperature-Converter/) |
+| **01. Landing Page** | [Link](https://vishnu-landingpage.netlify.app/) | [Code](./Project-1-Landing-Page/) |
+| **02. Personal Portfolio** | [Link](https://vishnuragiri.netlify.app/) | [Code](./Project-2-Personal-Portfolio/) |
+| **03. Temperature Converter** | [Link](https://vishnu-tempconvert.netlify.app/) | [Code](./Project-3-Temperature-Converter/) |
 
 ---
 
@@ -33,4 +33,5 @@ A simple utility tool to convert temperatures between Celsius, Fahrenheit, and K
 
 ---
 *© 2026 Vishnu Ragiri*
+
 
