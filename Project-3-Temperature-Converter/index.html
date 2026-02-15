@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter // DevMode</title>
+    <link rel="icon" href="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Temperature Converter</h1>
+        </header>
+
+        <main class="converter-card">
+            <form id="converter-form" class="converter-form" onsubmit="return false;">
+                <div class="input-group">
+                    <label>Temperature Value</label>
+                    <input type="number" id="temp-input" step="any" placeholder="0.00" required>
+                </div>
+
+                <div class="units-row">
+                    <div class="input-group">
+                        <label>From</label>
+                        <select id="from-unit">
+                            <option value="celsius">Celsius</option>
+                            <option value="fahrenheit" selected>Fahrenheit</option>
+                            <option value="kelvin">Kelvin</option>
+                        </select>
+                    </div>
+
+                    <button type="button" id="swap-btn" class="swap-btn" title="Swap Units">&#8644;</button>
+
+                    <div class="input-group">
+                        <label>To</label>
+                        <select id="to-unit">
+                            <option value="celsius" selected>Celsius</option>
+                            <option value="fahrenheit">Fahrenheit</option>
+                            <option value="kelvin">Kelvin</option>
+                        </select>
+                    </div>
+                </div>
+
+                <button type="submit" id="convert-btn" class="convert-btn">Convert Now</button>
+            </form>
+
+            <div id="result-area" class="result-area">
+                <p class="result-label">Converted Result:</p>
+                <div class="result-data">
+                    <span id="output-temp">0.00</span>
+                    <span id="output-unit" class="result-unit">°C</span>
+                </div>
+            </div>
+        </main>
+        <footer class="main-footer">
+            <p>Made by Vishnu Ragiri</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
